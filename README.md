@@ -15,4 +15,4 @@
 > 支持扫一扫识别，从相册选择二维码识别！
 >
 > 支持PC端，手机移动端等！
-![image](https://user-images.githubusercontent.com/46928117/144007188-a5b0268e-8329-4e7a-98aa-64cebb7e60fb.png)
+
